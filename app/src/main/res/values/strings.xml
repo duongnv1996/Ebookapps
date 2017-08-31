@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ebookapp</string>
+    <string-array name="ca">
+        <item>job</item>
+        <item>ohcine</item>
+        <item>mhcine</item>
+        <item>mocine</item>
+        <item>mohine</item>
+
+    </string-array>
+
+</resources>

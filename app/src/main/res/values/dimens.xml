@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_img">150dp</dimen>
+    <dimen name="size_pading_16">14dp</dimen>
+    <dimen name="size_icon_text">16dp</dimen>
+</resources>
